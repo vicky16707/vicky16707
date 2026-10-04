@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Vignesh
-
-💻 C | C++ | Data Structures | Linux
-🌱 Learning Embedded Systems
-🚀 Building projects & improving every day
-
-> **Learn. Code. Debug. Repeat. 🔥**
+### 🏅 Achievements
+<p align="left">
+  <img src="https://vercel.app" alt="Pull Shark" width="130" />
+  <img src="https://vercel.app" alt="YOLO" width="130" />
+</p>
