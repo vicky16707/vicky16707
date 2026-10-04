@@ -1,3 +1,7 @@
-### 🏅 Achievements
+# 👋 Hi, I'm Vignesh
 
-<img src="https://githubassets.com" width="60" alt="Pull Shark" /> &nbsp; <img src="https://githubassets.com" width="60" alt="YOLO" />
+💻 C | C++ | Data Structures | Linux
+🌱 Learning Embedded Systems
+🚀 Building projects & improving every day
+
+> Learn. Code. Debug. Repeat. 🔥
