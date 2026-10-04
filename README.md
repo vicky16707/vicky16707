@@ -1,3 +1,3 @@
 ### 🏅 Achievements
 
-![Pull Shark](https://githubassets.com) ![YOLO](https://githubassets.com)
+<img src="https://githubassets.com" width="60" alt="Pull Shark" /> &nbsp; <img src="https://githubassets.com" width="60" alt="YOLO" />
