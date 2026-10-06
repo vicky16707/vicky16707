@@ -21,6 +21,3 @@
 
 
 
-## 📫 Connect With Me
-
-[GitHub](https://github.com/vicky16707)
