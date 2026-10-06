@@ -18,26 +18,8 @@
 
 ---
 
-## 🛠️ Skills
 
-* C
-* C++
-* Data Structures & Algorithms
-* Linux
-* Git & GitHub
-* Embedded Systems
 
----
-
-## 🚀 Projects
-
-* Arbitary Precision Calculator
-* Inverted Index Search Engine
-* Steganography
-* Address Book
-* MP3 Tag Reader
-
----
 
 ## 📫 Connect With Me
 
